@@ -8,6 +8,26 @@ WaveCon launched 5G in May 2022 across 15 cities. This project compares the four
 
 The analysis covers 13 prepaid plans, five competing operators, and eight months of monthly data.
 
+## Project preview
+
+![WaveCon 5G Impact Analysis cover](assets/overview.png)
+
+### Executive summary
+
+![Executive summary](assets/executive-summary.png)
+
+### KPI scorecard
+
+![KPI scorecard](assets/kpi-scorecard.png)
+
+### City performance
+
+![City performance analysis](assets/city-lens.png)
+
+### Recommended actions
+
+![Recommended actions](assets/recommendations.png)
+
 ## Business questions
 
 - Did 5G improve WaveCon's revenue?
